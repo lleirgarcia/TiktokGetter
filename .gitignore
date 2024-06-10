@@ -2,4 +2,4 @@
 apikeys.json
 credentials.json
 .env
-service-account
+service-account.json
